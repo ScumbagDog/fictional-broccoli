@@ -1,0 +1,8 @@
+#Eclipse stuff
+.project
+
+#Java development tools
+.classpath
+
+#Intellij when it is added
+.idea/*
