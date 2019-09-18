@@ -7,5 +7,6 @@
 #Intellij when it is added
 .idea/*
 
-#Output folder
+#Outputs
 out/*
+target/*
