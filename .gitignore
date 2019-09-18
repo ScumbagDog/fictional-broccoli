@@ -6,3 +6,6 @@
 
 #Intellij when it is added
 .idea/*
+
+#Output folder
+out/*
