@@ -6,6 +6,7 @@
 
 #Intellij when it is added
 .idea/*
+*.iml
 
 #Outputs
 out/*
