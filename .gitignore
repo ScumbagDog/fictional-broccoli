@@ -5,8 +5,9 @@
 .classpath
 
 #Intellij when it is added
-.idea/*
-*.iml
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
 
 #Outputs
 out/*
