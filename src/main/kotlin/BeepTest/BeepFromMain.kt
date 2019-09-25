@@ -10,7 +10,6 @@ fun main(args: Array<String>) {
     bluetoothConnection.openPort()
     bluetoothConnection.writeBytes(messageLength, messageLength.size.toLong())
     bluetoothConnection.writeBytes(command, command.size.toLong())
-    //bluetoothConnection.closePort()
 }
 
 fun findCommPort(args: Array<String>): SerialPort {
